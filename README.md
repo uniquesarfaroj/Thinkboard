@@ -4,6 +4,12 @@
 
 ---
 
+## 🔗 Live Demo
+
+👉 [**Click here to visit the live app**](https://thinkboard-tq97.onrender.com/)
+
+---
+
 ## 🚀 Key Features
 
 - 🧱 **Full-Stack MERN App** — MongoDB, Express.js, React.js, Node.js.
